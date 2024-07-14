@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://deivor24.github.io/Labirintas/
 
-Design: [Eduhouse](https://dribbble.com/shots/2537184-Day-088-404-Page-Daily-UI/attachments/9352426?mode=media)
+Design: [Labirintas](https://dribbble.com/shots/2537184-Day-088-404-Page-Daily-UI/attachments/9352426?mode=media)
 
 ## 🎯 Project features/goals
 
