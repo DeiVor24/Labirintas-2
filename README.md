@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://deivor24.github.io/Labirintas/
+Site published at: https://deivor24.github.io/Labirintas-2/
 
 Design: [Labirintas](https://dribbble.com/shots/2537184-Day-088-404-Page-Daily-UI/attachments/9352426?mode=media)
 
